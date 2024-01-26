@@ -1,0 +1,11 @@
+{
+	"id": "xml2md",
+	"name": "XML to Markdown converter",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Convert xml strucured data to files in md format",
+	"author": "YuriWit",
+	"authorUrl": "https://example.com",
+	"fundingUrl": "https://example.com/pricing",
+	"isDesktopOnly": true
+}
